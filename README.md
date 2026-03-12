@@ -40,7 +40,7 @@ This project performs basic arithmetic operations and includes keyboard support,
 
 ## 🌐 Live Demo
 
-Add your deployed project link here:
+Add your deployed project link here:https://satyveeryadav123.github.io/Calculator/
 
 ---
 
